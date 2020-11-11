@@ -6,10 +6,10 @@
                 <nav class="navbar bg-light">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fa fa-home"></i>Home</a>
+                            <a class="nav-link" href="index.php"><i class="fa fa-home"></i>Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fa fa-shopping-bag"></i>Camilious</a>
+                            <a class="nav-link" href="product.php"><i class="fa fa-shopping-bag"></i>Camilious</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#"><i class="fa fa-plus-square"></i>Sayur-sayuran</a>
