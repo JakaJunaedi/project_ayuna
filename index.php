@@ -475,18 +475,12 @@
             <div class="col-md-6">
                 <div class="review-slider-item">
                     <div class="review-img">
-                        <img src="img/review-1.jpg" alt="Image">
+                        <img src="img/cemilan/camilia3.jpeg" alt="Image">
                     </div>
                     <div class="review-text">
-                        <h2>Customer Name</h2>
-                        <h3>Profession</h3>
-                        <div class="ratting">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
+                        <h2>Ayuna Fresh</h2>
+                        <h3>Profile</h3>
+
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae nunc eget leo finibus luctus et vitae lorem
                         </p>

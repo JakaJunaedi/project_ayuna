@@ -49,7 +49,7 @@
                 </div>
                 <div class="product-image">
                     <a href="product-detail.html">
-                        <img src="img/cemilan/camilia10.jpg" alt="Product Image">
+                        <img src="img/Sayur/Sayur bayam.jpg" alt="Product Image">
                     </a>
                     <div class="product-action">
                         <a href="#"><i class="fa fa-cart-plus"></i></a>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="product-image">
                     <a href="product-detail.html">
-                        <img src="img/cemilan/camilia9.jpeg" alt="Product Image">
+                        <img src="img/Sayur/Labu Siam ACAR.jpg" alt="Product Image">
                     </a>
                     <div class="product-action">
                         <a href="#"><i class="fa fa-cart-plus"></i></a>
@@ -105,7 +105,7 @@
                 </div>
                 <div class="product-image">
                     <a href="product-detail.html">
-                        <img src="img/cemilan/camilia02.jpg" alt="Product Image">
+                        <img src="img/Sayur/Buncis.jpg" alt="Product Image">
                     </a>
                     <div class="product-action">
                         <a href="#"><i class="fa fa-cart-plus"></i></a>

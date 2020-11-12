@@ -12,13 +12,16 @@
                             <a class="nav-link" href="product.php"><i class="fa fa-shopping-bag"></i>Camilious</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fa fa-plus-square"></i>Sayur-sayuran</a>
+                            <a class="nav-link" href="sayuran.php"><i class="fa fa-plus-square"></i>Sayur-sayuran</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fa fa-female"></i>Buah-buahan</a>
+                            <a class="nav-link" href="buahan.php"><i class="fa fa-female"></i>Buah-buahan</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fa fa-child"></i>Frozen</a>
+                            <a class="nav-link" href="frozen.php"><i class="fa fa-child"></i>Frozen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="fashion.php"><i class="fa fa-child"></i>Fashion</a>
                         </li>
                     </ul>
                 </nav>
